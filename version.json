@@ -1,5 +1,10 @@
 {
   "version": "3.1",
   "url": "https://github.com/menghakrithesen-Meng/khmer-speech-pro/releases/download/v3.1/Speak-Pro.exe",
-  "changelog": "Auto Update Speach-Pro"
+  "changelog": "Auto Update Speach-Pro",
+  "video_cutter": {
+    "version": "1.0",
+    "url": "https://github.com/menghakrithesen-Meng/khmer-speech-pro/releases/download/v1.0/VideoCutter.exe",
+    "changelog": "Initial Release Video Cutter"
+  }
 }
