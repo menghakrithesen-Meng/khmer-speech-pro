@@ -1,7 +1,8 @@
 {
-  "version": "3.4",
+  "version": "3.5",
   "url": "https://github.com/menghakrithesen-Meng/khmer-speech-pro/releases/download/untagged-83a6814459315c2117a3/SRT_Speech_ProV3.5.exe",
-  "changelog": "Auto Update Speach-Pro",
+  "sha256": "39c7508364e87a01e077b3909c7336bebd295640be596d0303c5cd5de87864f8",
+  "changelog": "Update to v3.5",
   "video_cutter": {
     "version": "1.1",
     "url": "https://github.com/menghakrithesen-Meng/khmer-speech-pro/releases/download/v1.0/VideoCutter.exe",
